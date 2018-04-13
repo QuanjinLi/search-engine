@@ -1,0 +1,21 @@
+.form-group{
+    width: 700px;
+}
+.input{
+    height: 50px;
+}
+.search-text{
+    font-family: "Arial Black";
+    font-size: larger;
+    text-align: center;
+    margin: 0 auto;
+}
+#search-engine{
+    width: 650px;
+    margin-top: 50px;
+    height:60px;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
